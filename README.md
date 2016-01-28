@@ -3,13 +3,13 @@ Client-Server console application.
 
 ### Built with: 
 
-	- Java NIO as well as Standart I/O
-	- Java Reflexion API 
+	- Java NIO
+	- Java Reflection API 
 	- Server administration with Remote Method Invocation (RMI)
 
 The Server uses the Non-blocking or New Input Output(NIO) to handle incoming connectons. 
 
-The Reflexion API is used for loading a plug-in which logs the user's interaction with the server in a log file.
+The Reflection API is used for loading a plug-in which logs the user's interaction with the server in a log file.
 
 ### The Remote interface provides methods for:
   - deleting registered users
