@@ -24,6 +24,10 @@ The Reflexion API is used for loading a plug-in which logs the user's interactio
 
 The source files are included in their respective folders.
 
+## Screenshots
+<img src="screenshots/snapshot1_blured.png" alt="Screen 1" width="434px" height="250px">
+<img src="screenshots/snapshot2_blured.png" alt="Screen 1" width="434px" height="250px">
+
 ## How to run the application
 1. Run the 'rmi_server.sh' executable to start the RMI server
 2. Then run 'server.sh' to strat the server
